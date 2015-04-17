@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 4/16/2015 5:34:22 PM
+
+BeginCmp
+TimeStamp = /552F7A32;
+Reference = K4;
+ValeurCmp = CONN_3;
+IdModule  = mors_3p;
+EndCmp
+
+BeginCmp
+TimeStamp = /552F79C6;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /552F7AD5;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = mors_4p;
+EndCmp
+
+BeginCmp
+TimeStamp = /552F99C1;
+Reference = RLY1;
+ValeurCmp = RELAY_V23042;
+IdModule  = relay_V23042;
+EndCmp
+
+BeginCmp
+TimeStamp = /552F9A2F;
+Reference = RLY2;
+ValeurCmp = RELAY_V23042;
+IdModule  = relay_V23042;
+EndCmp
+
+BeginCmp
+TimeStamp = /552F9A9C;
+Reference = RLY3;
+ValeurCmp = RELAY_V23042;
+IdModule  = relay_V23042;
+EndCmp
+
+EndListe
