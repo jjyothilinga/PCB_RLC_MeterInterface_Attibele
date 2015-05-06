@@ -1,5 +1,5 @@
 M48
-;DRILL file {Pcbnew (2013-07-07 BZR 4022)-stable} date 4/17/2015 7:39:30 PM
+;DRILL file {Pcbnew (2013-07-07 BZR 4022)-stable} date 5/6/2015 4:58:18 PM
 ;FORMAT={-:-/ absolute / inch / decimal}
 FMAT,2
 INCH,TZ
@@ -46,9 +46,9 @@ X7.8Y-5.04
 X7.8Y-5.24
 X7.8Y-5.44
 T3
-X5.Y-4.15
-X5.Y-6.3
-X7.85Y-4.15
-X7.85Y-6.3
+X4.94Y-4.02
+X4.95Y-6.32
+X7.94Y-6.33
+X7.96Y-4.03
 T0
 M30
